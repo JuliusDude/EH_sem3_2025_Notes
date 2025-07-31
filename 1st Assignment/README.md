@@ -32,10 +32,9 @@ nmap -sV testphp.vulnweb.com
 
 ## 📚 What is a CVE?
 **CVE (Common Vulnerabilities and Exposures)** is a unique identifier for publicly known cybersecurity vulnerabilities. Each CVE contains:
+<img width="1853" height="733" alt="image" src="https://github.com/user-attachments/assets/718f1e34-25aa-4c52-bffc-a8e181392b59" />
 
-<img width="600" height="424" alt="image" src="https://github.com/user-attachments/assets/6dace4e9-0220-4b6d-9a25-84699ff1acb5" />
-
-[Source(1)](https://www.cybersecurity-help.cz/vdb/nginx/nginx/1.19.0)
+[Source(1)](https://www.cve.org/CVERecord/SearchResults?query=CVE-2021-23017)
 
 <img width="600" height="424" alt="image" src="https://github.com/user-attachments/assets/0a580349-1d4f-4a8b-b1a5-61a6af68c58a" />
 
@@ -49,6 +48,10 @@ nmap -sV testphp.vulnweb.com
 CVE information is published by trusted databases such as [CVE.org](https://www.cve.org), [NVD](https://nvd.nist.gov), and [Vulmon](https://vulmon.com).
 
 ## 🔐 Step 2: CVEs for nginx 1.19.0
+
+<img width="600" height="424" alt="image" src="https://github.com/user-attachments/assets/6dace4e9-0220-4b6d-9a25-84699ff1acb5" />
+
+[Source(3)](https://www.cybersecurity-help.cz/vdb/nginx/nginx/1.19.0)
 
 ### ✅ Detected Service: nginx 1.19.0
 
