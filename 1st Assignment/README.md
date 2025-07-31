@@ -29,10 +29,18 @@ nmap -sV testphp.vulnweb.com
   - **Service:** HTTP  
   - **Software Version:** **nginx 1.19.0**
 
-📌 Only one service was detected — nginx (web server) on port 80.
 
 ## 📚 What is a CVE?
 **CVE (Common Vulnerabilities and Exposures)** is a unique identifier for publicly known cybersecurity vulnerabilities. Each CVE contains:
+
+<img width="600" height="424" alt="image" src="https://github.com/user-attachments/assets/6dace4e9-0220-4b6d-9a25-84699ff1acb5" />
+
+[Source(1)](https://www.cybersecurity-help.cz/vdb/nginx/nginx/1.19.0)
+
+<img width="600" height="424" alt="image" src="https://github.com/user-attachments/assets/0a580349-1d4f-4a8b-b1a5-61a6af68c58a" />
+
+[Source(2)](https://www.cybersecurity-help.cz/vdb/SB2021052543)
+
 - A unique ID (e.g., **CVE-2021-23017**)
 - A description of the issue
 - Its severity (Low/Medium/High)
